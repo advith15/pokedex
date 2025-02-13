@@ -10,10 +10,6 @@ Welcome to the **Pokédex App**, a web application built using **React.js** that
 - 🎨 **Responsive & Interactive UI**
 - ⚡ **Fast & Lightweight (Powered by PokeAPI)**
 
-## Demo
-
-[Live Demo](#) *(Add your deployed link here)*
-
 ## Installation & Setup
 
 1. **Clone the repository:**
